@@ -8,8 +8,11 @@ A API JSON that shows you bitcoin nova nodes and their availability. Currently i
  - Redis Server
 
 `sudo apt-get install python3.8`
+
 `pip install -r requirements.txt`
+
 `sudo apt-get install mysql-server`
+
 `sudo apt-get install redis-server`
 
 ## Adjusting Settings
